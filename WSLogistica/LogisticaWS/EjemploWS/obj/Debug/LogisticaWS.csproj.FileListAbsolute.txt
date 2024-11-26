@@ -1,0 +1,28 @@
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\FireSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\Newtonsoft.Json.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\RestSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\Newtonsoft.Json.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\RestSharp.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\LogisticaWS.csproj.AssemblyReference.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\LogisticaWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\Logistic.893E75DD.Up2Date
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\FireSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\Newtonsoft.Json.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\RestSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\Newtonsoft.Json.xml
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\bin\RestSharp.xml
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\obj\Debug\LogisticaWS.csproj.AssemblyReference.cache
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\obj\Debug\LogisticaWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\obj\Debug\Logistic.893E75DD.Up2Date
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\obj\Debug\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\WSLogistica\LogisticaWS\EjemploWS\obj\Debug\EjemploWS.pdb

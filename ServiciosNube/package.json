@@ -1,0 +1,28 @@
+{
+  "name": "cadena_suministro",
+  "version": "1.0.0",
+  "description": "Aplicación para gestionar la cadena de suministro utilizando microservicios en la nube.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [
+    "cadena-suministro",
+    "microservicios",
+    "nodejs",
+    "express",
+    "frontend"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

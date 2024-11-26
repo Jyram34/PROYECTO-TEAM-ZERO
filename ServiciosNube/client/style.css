@@ -1,0 +1,290 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: "Noto Sans JP", sans-serif;
+    line-height: 1.6;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.contenedor {
+	padding: 4rem;
+	display: flex;
+	height: 100vh;
+	background-color: #808080;
+	justify-content: center;
+}
+
+.contenedor-data {
+	width: 100%;
+	padding: 1rem;
+	display: flex;
+	flex-wrap: wrap; /* Permite que los elementos pasen a una nueva fila si es necesario */
+	gap: 5px; /* Espaciado entre los elementos */
+	overflow-y: auto; /* Agrega un scroll vertical si el contenido excede la altura */
+}
+
+.principal{
+	flex: 1;
+	display: grid;
+	grid-template-rows: .2fr .1fr 1fr;
+	justify-content: center;
+	background-color: #fff
+}
+
+.principal h1{
+	text-align: center;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+.principal .barra-areas{
+	width: 60vw;
+	display: flex;
+	justify-content: center;
+}
+
+.barra-areas button{
+	width: 100%;
+	background-color: #023047;
+	color: #fff;
+	font-size: 20px;
+}
+
+.barra-areas button:hover{
+	background-color: #22577a;
+	border: 2px color #166ca9;
+}
+.barra-areas
+.activo {
+	background-color: #22577a;
+}
+
+
+
+.card {
+	flex: 0 0 calc((100% / 4) - 5px); /* Cada tarjeta ocupa un tercio del ancho disponible menos el espacio del gap */
+	border-radius: 1rem;
+	padding: 1rem;
+	background-color: #0096c7;
+	color: white;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	max-height: 15rem; /* Asegura una altura mínima consistente */}
+
+
+.card:hover {
+	background-color: #0077b6;
+}
+
+.card h2{
+	font-weight: 400;
+	font-size: 18px;
+}
+
+
+.inventario-style{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	width: 100%;
+}
+
+.notificaciones-side{
+	flex: .7;
+	background-color: #22577a;
+}
+
+.notificaciones-side .header{
+	width: 100%;
+	padding: 1rem;
+	color: white;
+	text-align: center;
+}
+
+.notificaciones-side .header h2{
+	font-size: 2rem;
+}
+
+.notificaciones .data-event{
+	padding: 1rem;
+	background-color: rgb(54, 161, 37);
+	color: white;
+	text-align: center;
+}
+
+.data-event span{
+	font-weight: bold;
+}
+
+modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro semitransparente */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 1rem;
+	width: 30rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.cerrar-modal {
+	background-color: transparent;
+	color: red;
+	padding: 0;
+}
+.cerrar-modal:hover {
+	background-color: transparent;
+}
+
+.modal-1secc {
+	display: flex;
+	justify-content: space-between;
+}
+
+.formulario{
+	width: 100%;
+	padding: 1rem;
+	display: grid;
+	gap: 1rem;
+}
+
+.formulario .parametro{
+	display: grid;
+	grid-template-columns: .3fr 1fr;
+	gap: 1rem;
+}
+
+.parametro input{
+	padding: 5px;
+	border-radius: 1rem;
+}
+
+.enviar-data{
+	border-radius: 10px;
+	background-color: #0056b3;
+	width: 7rem;
+	margin: 0 auto;
+	transition: background-color 0.3s ease;
+}
+
+.enviar-data:hover{
+	border-radius: 10px;
+	background-color: #03458b;
+}
+
+.error {
+	padding: 5px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
+.correcto {
+	padding: 5px;
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+}
+
+.opacity-50{
+	opacity: 50%;
+}
+
+.info{
+	font-size: 14px;
+}
+.info span{
+	font-weight: bold;
+}
+.controles {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 0;
+}
+
+.controles button{
+	margin: 0;
+	background-color: transparent;
+	padding: 5px;
+}
+
+#edit{
+	background-color: rgb(255, 153, 0);
+}
+#edit:hover{
+	background-color: rgb(255, 115, 0);
+}
+
+#delete {
+	background-color: red;
+}
+
+#delete:hover {
+	background-color: rgb(134, 6, 6);
+}
+
+/* Estilos para el modal (fondo semi-transparente) */
+.modal-confirmacion {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Fondo oscuro semi-transparente */
+    display: block;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Asegúrate de que el modal esté por encima del contenido */
+}
+
+/* Estilos para el contenido del modal */
+.modal-content {
+    background-color: white;
+    color: #212529;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    width: 400px; /* Puedes ajustar el tamaño */
+    min-height: 200px; /* Altura mínima */
+    display: grid;
+    gap: 1rem;
+}
+
+.confirmar-button {
+    background-color: red;
+}
+
+.confirmar-button:hover {
+    background-color: rgb(188, 11, 11);
+}

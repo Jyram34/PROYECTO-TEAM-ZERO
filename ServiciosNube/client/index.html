@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Suministros en Nube</title>
+	<link rel="stylesheet" href="./style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<div class="contenedor">
+		<main class="principal">
+			<h1 class="titulo">Cadena de suministros</h1>
+			<div class="barra-areas">
+				<button id="proveedoresBtn">
+					Proveedor
+				</button>
+				<button id="inventarioBtn">
+					Inventario
+				</button>
+				<button id="logisticaBtn">
+					Logistica
+				</button>
+			</div>
+			<div id="contenedorData" class="contenedor-data">
+				<p>Selecciona el area que quieres ver</p>
+			</div>
+		</main>
+		<aside class="notificaciones-side">
+			<div class="header">
+				<h2>Notificaciones</h2>
+				<p>Recibe eventos</p>
+			</div>
+			<div id="barra-notificaciones" class="notificaciones">
+				
+			</div>
+		</aside>
+	</div>
+	<script src="./script.js"></script>
+	<script src="./events.js"></script>
+</body>
+</html>

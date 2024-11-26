@@ -1,0 +1,7 @@
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Release\EjemploWS.csproj.AssemblyReference.cache
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Release\EjemploWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Release\EjemploWS.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Release\EjemploWS.pdb

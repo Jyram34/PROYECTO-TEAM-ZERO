@@ -1,0 +1,42 @@
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\FireSharp.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\Newtonsoft.Json.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\RestSharp.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\Newtonsoft.Json.xml
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\bin\RestSharp.xml
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.AssemblyReference.cache
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.Up2Date
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Debug\EjemploWS.dll
+C:\Users\yiram\source\repos\EjemploWS\EjemploWS\obj\Debug\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\FireSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\Newtonsoft.Json.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\RestSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\Newtonsoft.Json.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\bin\RestSharp.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.AssemblyReference.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.Up2Date
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\obj\Debug\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS\EjemploWS\EjemploWS\obj\Debug\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.dll.config
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\EjemploWS.pdb
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\FireSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\Newtonsoft.Json.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\RestSharp.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\Newtonsoft.Json.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\bin\RestSharp.xml
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.AssemblyReference.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.CoreCompileInputs.cache
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.csproj.Up2Date
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.dll
+C:\Users\yiram\OneDrive\Escritorio\EjemploWS - copia\EjemploWS\EjemploWS\obj\Debug\EjemploWS.pdb

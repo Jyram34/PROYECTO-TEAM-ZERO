@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\LogisticaWS.csproj|c:\\users\\yiram\\onedrive\\escritorio\\wslogistica\\logisticaws\\ejemplows\\wslogistica.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\LogisticaWS.csproj|solutionrelative:ejemplows\\wslogistica.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\LogisticaWS.csproj|C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\ejemplows\\iwslogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\LogisticaWS.csproj|solutionrelative:ejemplows\\iwslogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\EjemploWS.csproj|C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\ejemplows\\iwslogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47EFEF6-C10A-4003-AA82-958300B2944B}|EjemploWS\\EjemploWS.csproj|solutionrelative:ejemplows\\iwslogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSLogistica.svc.cs",
+              "DocumentMoniker": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\WSLogistica.svc.cs",
+              "RelativeDocumentMoniker": "EjemploWS\\WSLogistica.svc.cs",
+              "ToolTip": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\WSLogistica.svc.cs",
+              "RelativeToolTip": "EjemploWS\\WSLogistica.svc.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:23:51.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWSLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\IWSLogistica.cs",
+              "RelativeDocumentMoniker": "EjemploWS\\IWSLogistica.cs",
+              "ToolTip": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\IWSLogistica.cs",
+              "RelativeToolTip": "EjemploWS\\IWSLogistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:24:12.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWSLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\IWSLogistica.cs",
+              "RelativeDocumentMoniker": "EjemploWS\\IWSLogistica.cs",
+              "ToolTip": "C:\\Users\\yiram\\OneDrive\\Escritorio\\WSLogistica\\LogisticaWS\\EjemploWS\\IWSLogistica.cs",
+              "RelativeToolTip": "EjemploWS\\IWSLogistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:55:24.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
